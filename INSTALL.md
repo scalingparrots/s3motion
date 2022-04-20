@@ -9,3 +9,5 @@ If you want to pack:
 `npm pack`
 
 `npm i -g s3motion-0.1.2.tgz`
+
+Remeber to give public read permission to every files transferred to the bucket.
